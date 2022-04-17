@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using Quartz;
+﻿using Quartz;
 using Quartz.Impl;
 using System;
 using System.Collections.Generic;
